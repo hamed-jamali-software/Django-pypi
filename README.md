@@ -1,6 +1,6 @@
 # Django-pypi
 
-django-bootstrap5
+# django-bootstrap5 https://pypi.org/project/django-bootstrap5/
 
 # Weblate https://docs.weblate.org/en/latest/admin/install.html translation
 # django-filter https://django-filter.readthedocs.io/en/stable/guide/install.html filter
